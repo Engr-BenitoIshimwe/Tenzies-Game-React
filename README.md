@@ -1,1 +1,1 @@
-## Tenzies Game React Application
+## Tenzies Game Application | React
